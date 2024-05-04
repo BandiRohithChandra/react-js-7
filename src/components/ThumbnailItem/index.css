@@ -1,0 +1,13 @@
+/* Write your code here. */
+
+.thumbnail-container {
+  opacity: 0.5;
+}
+
+
+
+.thumbnail-container-active {
+  opacity: 1;
+}
+
+
